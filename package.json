@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
   },
   "packageManager": "yarn@3.2.1",
   "devDependencies": {
